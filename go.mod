@@ -13,14 +13,12 @@ require (
 	github.com/googleapis/gnostic v0.3.1 // indirect
 	github.com/gregjones/httpcache v0.0.0-20181110185634-c63ab54fda8f // indirect
 	github.com/hashicorp/golang-lru v0.5.3 // indirect
-	github.com/imdario/mergo v0.3.8 // indirect
-	github.com/spf13/cobra v0.0.5
+	github.com/spf13/cobra v1.0.0
 	golang.org/x/net v0.0.0-20191028085509-fe3aa8a45271 // indirect
 	golang.org/x/sys v0.0.0-20191028164358-195ce5e7f934 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
-	google.golang.org/appengine v1.6.5 // indirect
-	helm.sh/helm/v3 v3.1.2
-	k8s.io/helm v2.16.1+incompatible
+	helm.sh/helm/v3 v3.2.4
+	k8s.io/helm v2.16.9+incompatible
 )
 
 replace github.com/docker/docker => github.com/docker/docker v0.0.0-20190731150326-928381b2215c
